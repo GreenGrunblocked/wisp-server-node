@@ -2,6 +2,11 @@
 
 A [wisp protocol](https://github.com/MercuryWorkshop/wisp-protocol) server implementation, written in NodeJS.
 
+> [!WARNING]
+> wisp-server-node is deprecated due to security and stability issues. Please use [wisp-js/server](https://github.com/MercuryWorkshop/wisp-js) instead.
+
+## Old Documentation:
+
 ### Usage ✨
 
 You can integrate it into your existing node:http server pretty easily by just adding this to your code
