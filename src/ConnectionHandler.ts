@@ -227,3 +227,5 @@ export async function routeRequest(
 export default {
     routeRequest,
 };
+
+console.error("\x1b[31mWARNING: wisp-server-node is deprecated due to security and stability issues. Please use @mercuryworkshop/wisp-js instead.\x1b[0m");
